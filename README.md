@@ -1,5 +1,5 @@
 # Password Generator
-SecurePass is a user-friendly web-based password generator designed to create strong and secure passwords for enhanced online security. With customizable options and intuitive controls, SecurePass ensures that you can easily generate passwords tailored to your specific requirements. Whether you need a password for a new online account or want to strengthen your existing passwords, SecurePass has you covered. Say goodbye to weak passwords and enhance your digital security with SecurePass.
+It is a user-friendly web-based password generator designed to create strong and secure passwords for enhanced online security. With customizable options and intuitive controls, It ensures that you can easily generate passwords tailored to your specific requirements. Whether you need a password for a new online account or want to strengthen your existing passwords, SecurePass has you covered. Say goodbye to weak passwords and enhance your digital security.
 
 # Features
 1. Generate random passwords with customizable options.
@@ -28,10 +28,7 @@ Contributions to the Password Generator project are welcome and encouraged. If y
 # License
 This project is created by me, which means you are free to use, modify, and distribute the code in accordance with the terms of the license.
 
-# Acknowledgments
-1. This password generator project is made during the Web Dev Course of Love Babbar
-2. The design of the Password Generator is inspired by various password generator tools available online.
 # Contact
-If you have any questions or suggestions, feel free to contact me at anantaggcsai@gmail.com
+If you have any questions or suggestions, feel free to contact me at mohitsh310@gmail.com
 
 # Thank you for using the Password Generator!
