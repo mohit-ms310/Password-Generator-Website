@@ -8,6 +8,7 @@ SecurePass is a user-friendly web-based password generator designed to create st
 4. Copy the generated password to the clipboard with a single click.
 # Usage
 1.Open the Password Generator in your web browser from the link - https://anantagg.github.io/SecurePass-Web-based-Password-Generator/
+
 2. Specify the desired length of the password using the length slider.
 3. Select the character types you want to include in the password by checking or unchecking the appropriate checkboxes.
 4. Click the "Generate Password" button.
